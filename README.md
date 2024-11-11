@@ -7,3 +7,7 @@ The app was successfully deployed and runs on the Meta Quest 3 (Oculus).
 ![Screenshot 2024-10-29 at 9 43 06 AM](https://github.com/user-attachments/assets/e668c579-15b6-4edb-a15b-77cd438badd1)
 
 ![Screenshot 2024-10-29 at 9 43 43 AM](https://github.com/user-attachments/assets/ed366122-a480-4a3f-b429-e7a5f9a80de2)
+
+
+https://github.com/user-attachments/assets/613bbc0b-5ac1-4350-b2e6-4f73ead0c99d
+
